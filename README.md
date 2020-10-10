@@ -1,7 +1,7 @@
 ![Logo](https://github.com/AwesomeIndia/Awesome-Developers-India/blob/main/Logo.png)
 
 
-Awesome Developer Resources India [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+#Awesome Developer Resources India [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome Developer resources related to India.
 
