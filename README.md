@@ -12,7 +12,7 @@ If you want to contribute to this list (please do), send me a pull request or fi
 - [Engineering](#Engineering)
 - [Jobs](#Jobs)
 - [Academics](#Academics)
-- [Startups and VC's](#Startups-and-VC's)
+- [Startups and VC's](#Startups-and-vcs)
 - [Learn](#Learn)
 - [Meetups](#Meetups)
 - [Youtube](#Youtube)
