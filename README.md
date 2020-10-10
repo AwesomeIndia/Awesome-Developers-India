@@ -8,11 +8,11 @@
 If you want to contribute to this list (please do), send me a pull request or fill a simple form [here](https://forms.gle/cRLPQyHhedHWLi1bA).
 
 ## Contents
-- [Sofware Development](#Sofware Development)
+- [Sofware Development](#Sofware-Development)
 - [Engineering](#Engineering)
 - [Jobs](#Jobs)
 - [Academics](#Academics)
-- [Startups and VC's](#Startup)
+- [Startups and VC's](#Startups-and-VC's)
 - [Learn](#Learn)
 - [Meetups](#Meetups)
 - [Youtube](#Youtube)
