@@ -2,7 +2,7 @@ Awesome Developer Resources India [![Awesome](https://awesome.re/badge.svg)](htt
 
 > A curated list of awesome Developer resources related to India.
 
-If you want to contribute to this list (please do), send me a pull request or fill a simple form [here](https://forms.gle/9Z16byk2AAU7obYQA).
+If you want to contribute to this list (please do), send me a pull request or fill a simple form [here](https://forms.gle/cRLPQyHhedHWLi1bA).
 
 ## Contents
 - [Sofware Development](#Sofware Development)
